@@ -15,7 +15,7 @@
 -Gitbash
 -GitHub
 ## repositorio del curso de bioinformatica semestre 20221
-## Recuento de lineas en la carpeta CSB-master
+## Recuento de lineas en la carpeta Saavedra2013
 - echo "Chóez,Josué" > documents/lineas.txt |ls -lh documents/CSB-master/unix/data/Saavedra2013 |wc -l >> documents/lineas.txt
 ## link de la captura 
 - https://docs.google.com/document/d/1lCNkgv2QsRiEd4wOueG-QmvitGHD_7HbtlJfimQRW2o/edit?usp=sharing
