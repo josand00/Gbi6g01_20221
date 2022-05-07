@@ -13,4 +13,4 @@
 ## Programas utilizados
 -Gitbash
 -GitHub
-repositorio del curso de bioinformatica semestre 20221
+## repositorio del curso de bioinformatica semestre 20221
