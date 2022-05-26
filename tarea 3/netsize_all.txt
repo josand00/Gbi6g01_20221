@@ -1,0 +1,180 @@
+Josue Choez, Analisis de datos con bucle for
+Filas n1.txt son: 97.
+Columnas de n1.txt son: 80.
+Josue Choez, Analisis de datos con bucle for
+Filas n10.txt son: 14.
+Columnas de n10.txt son: 20.
+Josue Choez, Analisis de datos con bucle for
+Filas n11.txt son: 270.
+Columnas de n11.txt son: 91.
+Josue Choez, Analisis de datos con bucle for
+Filas n12.txt son: 7.
+Columnas de n12.txt son: 72.
+Josue Choez, Analisis de datos con bucle for
+Filas n13.txt son: 61.
+Columnas de n13.txt son: 17.
+Josue Choez, Analisis de datos con bucle for
+Filas n14.txt son: 35.
+Columnas de n14.txt son: 15.
+Josue Choez, Analisis de datos con bucle for
+Filas n15.txt son: 38.
+Columnas de n15.txt son: 11.
+Josue Choez, Analisis de datos con bucle for
+Filas n16.txt son: 118.
+Columnas de n16.txt son: 24.
+Josue Choez, Analisis de datos con bucle for
+Filas n17.txt son: 76.
+Columnas de n17.txt son: 31.
+Josue Choez, Analisis de datos con bucle for
+Filas n18.txt son: 13.
+Columnas de n18.txt son: 14.
+Josue Choez, Analisis de datos con bucle for
+Filas n19.txt son: 10.
+Columnas de n19.txt son: 16.
+Josue Choez, Analisis de datos con bucle for
+Filas n2.txt son: 62.
+Columnas de n2.txt son: 41.
+Josue Choez, Analisis de datos con bucle for
+Filas n20.txt son: 18.
+Columnas de n20.txt son: 7.
+Josue Choez, Analisis de datos con bucle for
+Filas n21.txt son: 19.
+Columnas de n21.txt son: 45.
+Josue Choez, Analisis de datos con bucle for
+Filas n22.txt son: 19.
+Columnas de n22.txt son: 36.
+Josue Choez, Analisis de datos con bucle for
+Filas n23.txt son: 179.
+Columnas de n23.txt son: 26.
+Josue Choez, Analisis de datos con bucle for
+Filas n24.txt son: 80.
+Columnas de n24.txt son: 28.
+Josue Choez, Analisis de datos con bucle for
+Filas n25.txt son: 17.
+Columnas de n25.txt son: 16.
+Josue Choez, Analisis de datos con bucle for
+Filas n26.txt son: 82.
+Columnas de n26.txt son: 40.
+Josue Choez, Analisis de datos con bucle for
+Filas n27.txt son: 27.
+Columnas de n27.txt son: 5.
+Josue Choez, Analisis de datos con bucle for
+Filas n28.txt son: 90.
+Columnas de n28.txt son: 19.
+Josue Choez, Analisis de datos con bucle for
+Filas n29.txt son: 61.
+Columnas de n29.txt son: 25.
+Josue Choez, Analisis de datos con bucle for
+Filas n3.txt son: 25.
+Columnas de n3.txt son: 36.
+Josue Choez, Analisis de datos con bucle for
+Filas n30.txt son: 8.
+Columnas de n30.txt son: 19.
+Josue Choez, Analisis de datos con bucle for
+Filas n31.txt son: 28.
+Columnas de n31.txt son: 25.
+Josue Choez, Analisis de datos con bucle for
+Filas n32.txt son: 45.
+Columnas de n32.txt son: 21.
+Josue Choez, Analisis de datos con bucle for
+Filas n33.txt son: 70.
+Columnas de n33.txt son: 20.
+Josue Choez, Analisis de datos con bucle for
+Filas n34.txt son: 79.
+Columnas de n34.txt son: 25.
+Josue Choez, Analisis de datos con bucle for
+Filas n35.txt son: 14.
+Columnas de n35.txt son: 8.
+Josue Choez, Analisis de datos con bucle for
+Filas n36.txt son: 40.
+Columnas de n36.txt son: 169.
+Josue Choez, Analisis de datos con bucle for
+Filas n37.txt son: 44.
+Columnas de n37.txt son: 13.
+Josue Choez, Analisis de datos con bucle for
+Filas n38.txt son: 51.
+Columnas de n38.txt son: 99.
+Josue Choez, Analisis de datos con bucle for
+Filas n39.txt son: 33.
+Columnas de n39.txt son: 25.
+Josue Choez, Analisis de datos con bucle for
+Filas n4.txt son: 101.
+Columnas de n4.txt son: 11.
+Josue Choez, Analisis de datos con bucle for
+Filas n40.txt son: 28.
+Columnas de n40.txt son: 18.
+Josue Choez, Analisis de datos con bucle for
+Filas n41.txt son: 12.
+Columnas de n41.txt son: 10.
+Josue Choez, Analisis de datos con bucle for
+Filas n42.txt son: 42.
+Columnas de n42.txt son: 8.
+Josue Choez, Analisis de datos con bucle for
+Filas n43.txt son: 55.
+Columnas de n43.txt son: 29.
+Josue Choez, Analisis de datos con bucle for
+Filas n44.txt son: 56.
+Columnas de n44.txt son: 9.
+Josue Choez, Analisis de datos con bucle for
+Filas n45.txt son: 36.
+Columnas de n45.txt son: 61.
+Josue Choez, Analisis de datos con bucle for
+Filas n46.txt son: 58.
+Columnas de n46.txt son: 17.
+Josue Choez, Analisis de datos con bucle for
+Filas n47.txt son: 139.
+Columnas de n47.txt son: 41.
+Josue Choez, Analisis de datos con bucle for
+Filas n48.txt son: 118.
+Columnas de n48.txt son: 49.
+Josue Choez, Analisis de datos con bucle for
+Filas n49.txt son: 47.
+Columnas de n49.txt son: 23.
+Josue Choez, Analisis de datos con bucle for
+Filas n5.txt son: 21.
+Columnas de n5.txt son: 7.
+Josue Choez, Analisis de datos con bucle for
+Filas n50.txt son: 45.
+Columnas de n50.txt son: 46.
+Josue Choez, Analisis de datos con bucle for
+Filas n51.txt son: 8.
+Columnas de n51.txt son: 15.
+Josue Choez, Analisis de datos con bucle for
+Filas n52.txt son: 33.
+Columnas de n52.txt son: 7.
+Josue Choez, Analisis de datos con bucle for
+Filas n53.txt son: 34.
+Columnas de n53.txt son: 13.
+Josue Choez, Analisis de datos con bucle for
+Filas n54.txt son: 126.
+Columnas de n54.txt son: 25.
+Josue Choez, Analisis de datos con bucle for
+Filas n55.txt son: 14.
+Columnas de n55.txt son: 50.
+Josue Choez, Analisis de datos con bucle for
+Filas n56.txt son: 110.
+Columnas de n56.txt son: 207.
+Josue Choez, Analisis de datos con bucle for
+Filas n57.txt son: 14.
+Columnas de n57.txt son: 11.
+Josue Choez, Analisis de datos con bucle for
+Filas n58.txt son: 678.
+Columnas de n58.txt son: 90.
+Josue Choez, Analisis de datos con bucle for
+Filas n59.txt son: 663.
+Columnas de n59.txt son: 130.
+Josue Choez, Analisis de datos con bucle for
+Filas n6.txt son: 9.
+Columnas de n6.txt son: 31.
+Josue Choez, Analisis de datos con bucle for
+Filas n7.txt son: 16.
+Columnas de n7.txt son: 25.
+Josue Choez, Analisis de datos con bucle for
+Filas n8.txt son: 19.
+Columnas de n8.txt son: 33.
+Josue Choez, Analisis de datos con bucle for
+Filas n9.txt son: 12.
+Columnas de n9.txt son: 22.
+Josue Choez, Analisis de datos con bucle for
+Filas netsize.txt son: 3.
+Columnas de netsize.txt son: 32.
